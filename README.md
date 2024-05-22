@@ -1,5 +1,3 @@
-# Middlewares övning som inkluderar
+Backend-övning
 
-## Felhantering
-## Logger
-## Static Path
+Felhantering, Logger och Static path. 
